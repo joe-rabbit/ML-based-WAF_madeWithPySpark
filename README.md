@@ -1,4 +1,4 @@
-# ML-based-WAF-madeWithPySpark
+# ThreatPrediction-madeWithPySpark
 This repository is based on <a href="https://github.com/vladan-stojnic/ML-based-WAF/tree/master">ML-based-WAF</a>.
 The dataset used in this project is <a href="https://drive.google.com/drive/folders/1Wn7e-RPmwPFe6Fu0xOj6gGcOfKknjpST?usp=sharing">here</a>.
 The Models used are logistic regression,KMeans and RandomForest Classifier.
